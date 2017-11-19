@@ -88,6 +88,6 @@ service-worker: true
 friends: [
   {
         title: "Yuan",
-        href: "http://kakaliuxiaoming.github.io"
+        href: "http://wangyuan0928.github.io"
     }
 ]
