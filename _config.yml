@@ -1,26 +1,26 @@
 # Site settings
-title: Yuan Blog
-SEOTitle: 苑苑的博客 | Yuan Blog
-header-img: img/home-bg-coffee.jpg
-email: wangyuan0928@outlook.com
-description: "Every failure is leading towards success."
-keyword: "Yuan Blog, 苑苑的博客, 苑苑, 读书"
-url: "http://wangyuan0928.github.io"          # your host, for absolute URL
+title: Kaka Blog
+SEOTitle: Kaka的博客 | Kaka Blog
+header-img: img/home-bg-galaxy.jpg
+email: kakaliuxiaoming@outlook.com
+description: "Do not pray for easy lives. Pray to be stronger men."
+keyword: "Kaka Blog, Kaka的博客, Kaka"
+url: "http://kakaliuxiaoming.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/wangyuan0928/wangyuan0928.github.io.git" # you code repository
+github_repo: "https://github.com/kakaliuxiaoming/kakaliuxiaoming.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "我歌月徘徊，我舞影零乱"
-sidebar-avatar: /img/about-yuan.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "生于西北孤烟之地，少喜读书；学于香江繁华港畔，立志投资"
+sidebar-avatar: /img/about-kaka.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: false
-github_username:    wangyuan0928
+github_username:
 facebook_username:
-jianshu_username:   283af8f474a4
+jianshu_username:
 #twitter_username:
 
 
@@ -54,7 +54,7 @@ kramdown:
 
 # 评论系统
 # Disqus settings（https://disqus.com/）
-disqus_username: wangyuan0928
+disqus_username: kakaliuxiaoming
 
 
 
@@ -87,10 +87,7 @@ service-worker: true
 # Friends
 friends: [
   {
-        title: "简书·Yuan",
-        href: "http://www.jianshu.com/u/283af8f474a4"
-    },{
-        title: "Newsela",
-        href: "https://newsela.com/#"
+        title: "Yuan",
+        href: "http://kakaliuxiaoming.github.io"
     }
 ]
